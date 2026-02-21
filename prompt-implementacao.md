@@ -184,7 +184,7 @@ Execute o trabalho **nesta ordem**, sem pular etapas:
 
 ---
 
-### 🔹 Etapa 8 (Frontend) — Paginas - Editar Perfiç
+### 🔹 Etapa 12 (Frontend) — Paginas - Editar Perfil
 
 * Criar uma página dedicada para a edição do perfil
 * A página deve possuir os campos de email e senha
